@@ -1,0 +1,28 @@
+body {
+width: 100vw;
+height: 52vw;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 0 auto;
+}
+/* h1{
+    text-align: center;
+
+} */
+
+table {
+    width: 50vw;
+    height: 50vw;
+    border: 1px solid black;
+    /* border-collapse: separate; */
+    border-spacing: 0px 0px;
+}
+
+.black {
+    background-color: black;
+    /* width: 50px; */
+}
+.white {
+    color:  white;
+}
